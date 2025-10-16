@@ -78,19 +78,12 @@ In Streamlit Cloud, add these secrets via Settings → Secrets.
 Your app will be live at: https://rpr-dashboard-sajjadhussain-unibonn.streamlit.app
 
 
+```
+---
 
-👥 Credits
 
+## 👥 Credits
 Developed by Sajjad Hussain (Uni Bonn)
 with support from EO-Africa and DETECT projects.
 
-
----
-
-✅ **Now:**
-- “Credits” appears as a proper **section header** (`## 👥 Credits`).
-- The README has a uniform style: clear sections with horizontal dividers and headings.
-- Ready to push to GitHub.
-
-Would you like me to make the “Credits” section centered or styled (like bold or italic layout for project logos)?
 
