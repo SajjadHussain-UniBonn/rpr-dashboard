@@ -36,6 +36,8 @@ Developed as part of the EO-Africa / Uni Bonn collaboration.
 ---
 
 ## 🧩 Project Structure
+
+'''
 rpr_dashboard/
 ├─ app.py                 # Main Streamlit app entry point
 ├─ config.py              # Configuration (paths, settings)
@@ -54,6 +56,7 @@ rpr_dashboard/
 ├─ .gitignore             # Files/folders to ignore
 └─ .streamlit/
     └─ secrets.toml       # (local only, not in GitHub)
+'''
 
 
 ---
