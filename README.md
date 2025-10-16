@@ -70,11 +70,18 @@ In Streamlit Cloud, add these secrets via Settings → Secrets.
 ```
 ---
 
+
+
 ## ☁️ Deployment on Streamlit Cloud
+
 1- Push your project to GitHub.
+
 2- Go to Streamlit Cloud
+
 3- Click New app → Select your repo → Choose app.py as the entry file.
+
 4- Paste your secrets under Settings → Secrets.
+
 5- Click Deploy 🚀
 
 Your app will be live at: https://rpr-dashboard-sajjadhussain-unibonn.streamlit.app
