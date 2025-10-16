@@ -55,10 +55,7 @@ pip install -r requirements.txt
 # Run Streamlit app
 streamlit run app.py
 
-
-
 🔐 Secrets Configuration
-
 Before running or deploying, create .streamlit/secrets.toml with:
 
 WEBDAV_BASE   = "https://uni-bonn.sciebo.de/public.php/webdav/"
@@ -72,23 +69,19 @@ In Streamlit Cloud, add these secrets via Settings → Secrets.
 
 
 ☁️ Deployment on Streamlit Cloud
-
-Push your project to GitHub.
-
-Go to Streamlit Cloud
-.
-
-Click New app → Select your repo → Choose app.py as the entry file.
-
-Paste your secrets under Settings → Secrets.
-
-Click Deploy 🚀
+1- Push your project to GitHub.
+2- Go to Streamlit Cloud
+3- Click New app → Select your repo → Choose app.py as the entry file.
+4- Paste your secrets under Settings → Secrets.
+5- Click Deploy 🚀
 
 Your app will be live at: https://rpr-dashboard-sajjadhussain-unibonn.streamlit.app
 
-👥 Credits
+
+---
+## 👥 Credits
 
 Developed by Sajjad Hussain (Uni Bonn)
 with support from EO-Africa and DETECT projects.
 
-
+---
