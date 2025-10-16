@@ -67,8 +67,10 @@ WEBDAV_PASS   = "YOUR_PASSWORD"
 ⚠️ Never commit this file — it’s already ignored in .gitignore.
 In Streamlit Cloud, add these secrets via Settings → Secrets.
 
+```
+---
 
-☁️ Deployment on Streamlit Cloud
+## ☁️ Deployment on Streamlit Cloud
 1- Push your project to GitHub.
 2- Go to Streamlit Cloud
 3- Click New app → Select your repo → Choose app.py as the entry file.
@@ -78,7 +80,6 @@ In Streamlit Cloud, add these secrets via Settings → Secrets.
 Your app will be live at: https://rpr-dashboard-sajjadhussain-unibonn.streamlit.app
 
 
-```
 ---
 
 
