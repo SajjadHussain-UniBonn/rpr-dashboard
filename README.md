@@ -1,22 +1,3 @@
-
-<!-- # RPR Dashboard (Streamlit)
-
-## Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Logos
-Place your image files in the `Logos/` folder with these names:
-- tUN_yzk2_400x400.jpg
-- EOAFRICA-logo-.png
-- Logo_DETECT_transparent_retina.png
-- Screenshot_2025-09-29_16-57-12.png
-
-## WebDAV credentials
-Configured in `config.py`. -->
-
 # 🌊 RPR Water Level Dashboard
 
 A Streamlit web application for monitoring and visualizing **river and water level data derived from GNSS-based sensors**.  
@@ -37,7 +18,7 @@ Developed as part of the EO-Africa / Uni Bonn collaboration.
 
 ## 🧩 Project Structure
 
-('''
+```
 rpr_dashboard/
 ├─ app.py                 # Main Streamlit app entry point
 ├─ config.py              # Configuration (paths, settings)
@@ -56,7 +37,7 @@ rpr_dashboard/
 ├─ .gitignore             # Files/folders to ignore
 └─ .streamlit/
     └─ secrets.toml       # (local only, not in GitHub)
-''')
+```
 
 
 ---
