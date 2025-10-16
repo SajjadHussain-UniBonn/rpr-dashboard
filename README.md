@@ -79,7 +79,7 @@ Your app will be live at: https://rpr-dashboard-sajjadhussain-unibonn.streamlit.
 
 
 ---
-## 👥 Credits
+`## 👥 Credits`
 
 Developed by Sajjad Hussain (Uni Bonn)
 with support from EO-Africa and DETECT projects.
